@@ -4,5 +4,5 @@ Use the following shell script by given the start/end date & table name and easi
 sh ./partition_maker.sh
 
 
-Athur : Morteza Ghasempour
+Author : Morteza Ghasempour
 https://www.linkedin.com/in/morteza-ghasempour-90064478/
